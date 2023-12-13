@@ -7,8 +7,8 @@ This is a fully reworked season 19 apex legends AIMBOT/TRIGGERBOT/SENSE+ESP+LOOT
 
 RUNNING AND CHANGING CHEAT MENU OPTIONS:
 
-1.) You no longer need to run the 'svchost.exe' file from an external USB/Flash Drive, you can now run the .exe file from ANYWHERE on your computer, but as always just make sure it is done as an Administrator.  
-2.) Make sure you have started the game, and get into the main game menu-screen that has your legend showing, then alt-tab and right click on the svchost.exe, select "Run As Administrator" and make sure your anti-virus has not stopped the program from running, especially if you are using windows defender there can be issues (if not working in Apex, disable defender)
+1.) You no longer need to run the 'crss.exe' file from an external USB/Flash Drive, you can now run the .exe file from ANYWHERE on your computer, but as always just make sure it is done as an Administrator.  
+2.) Make sure you have started the game, and get into the main game menu-screen that has your legend showing, then alt-tab and right click on the crss.exe, select "Run As Administrator" and make sure your anti-virus has not stopped the program from running, especially if you are using windows defender there can be issues (if not working in Apex, disable defender)
 3.) Use the "Insert" key to bring up the in game cheat menu, select all of your options that you want to have on, and make sure you click "save changes" at the bottom of the menu before pressing "Insert" again to close the menu. (if you do not click save changes none of the cheat menu options you selected will work)
 4.) Now, once you saved your changes and have closed the menu, join any game type you would like.  Remember though, once you start matchmaking and actually join a game, you WILL NOT BE ABLE TO CHANGE CHEAT OPTIONS until you are out of a game back at the manin menu. So knowing that, join any game....
 5.) Play better than a pred, fullllll grindddddddd apexxxxxx.
